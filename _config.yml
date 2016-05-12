@@ -2,6 +2,7 @@ name: User Guided Blog
 favicon: null
 layout_spectrum: 0.14375090110115707
 typography_spectrum: 0.7620149266440421
+title: User Guided Blog
 cta:
   domain: null
   bucket: null
