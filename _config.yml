@@ -1,7 +1,7 @@
 name: User Guided Blog
 favicon: null
-layout_spectrum: 0.14375090110115707
-typography_spectrum: 0.7620149266440421
+layout_spectrum: 0.49864
+typography_spectrum: 0.89608
 title: User Guided Blog
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+    - '#ffffff'
+    - '#437171'
+    - '#000000'
+    - '#9db5b5'
+    - '#333333'
   brandStrength: 0.05580706032924354
   lightness: 0.30873759486712515
   saturation: 0.4367158336099237
